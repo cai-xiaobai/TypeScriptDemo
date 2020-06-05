@@ -8,7 +8,7 @@
 
 type Add = (x: number, y: number) => number
 
-let add1:Add = (a, b) => a + b //具体函数
+// let add1:Add = (a, b) => a + b //具体函数
 
 //混合类型接口,既可以定义一个函数，也可以像对象一样拥有属性和方法
 //下面我们就用混合类型接口定义一个类库
